@@ -1,0 +1,457 @@
+{
+  "version": 4 18-05-2026,
+  "primary": "Arcticons",
+  "secondary": "by dc .maserati.",
+  "icons": [
+    {
+      "issuer": ["addy.io"],
+      "textured": "addyio_textured.svg",
+      "tinted": "addyio.svg"
+    },
+    {
+      "issuer": ["aimware", "aimware.net"],
+      "textured": "aimware_textured.svg",
+      "tinted": "aimware.svg"
+    },
+    {
+      "issuer": ["amazon"],
+      "textured": "amazon_textured.svg",
+      "tinted": "amazon.svg"
+    },
+    {
+      "issuer": ["atlassian"],
+      "textured": "atlassian_textured.svg",
+      "tinted": "atlassian.svg"
+    },
+    {
+      "issuer": ["atomic mail", "atomicmail"],
+      "textured": "atomicmail_textured.svg",
+      "tinted": "atomicmail.svg"
+    },
+    {
+      "issuer": ["amazon web services", "aws"],
+      "textured": "aws_textured.svg",
+      "tinted": "aws.svg"
+    },
+    {
+      "issuer": ["azure"],
+      "textured": "azure_textured.svg",
+      "tinted": "azure.svg"
+    },
+    {
+      "issuer": ["battle.net"],
+      "textured": "battlenet_textured.svg",
+      "tinted": "battlenet.svg"
+    },
+    {
+      "issuer": ["binance", "binance.com"],
+      "textured": "binance_textured.svg",
+      "tinted": "binance.svg"
+    },
+    {
+      "issuer": ["bitbucket"],
+      "textured": "bitbucket_textured.svg",
+      "tinted": "bitbucket.svg"
+    },
+    {
+      "issuer": ["bitwarden"],
+      "textured": "bitwarden_textured.svg",
+      "tinted": "bitwarden.svg"
+    },
+    {
+      "issuer": ["blizzard"],
+      "textured": "blizzard_textured.svg",
+      "tinted": "blizzard.svg"
+    },
+    {
+      "issuer": ["cake wallet", "cakewallet"],
+      "textured": "cakewallet_textured.svg",
+      "tinted": "cakewallet.svg"
+    },
+    {
+      "issuer": ["cherry servers", "cherryservers.com"],
+      "textured": "cherry_servers_textured.svg",
+      "tinted": "cherry_servers.svg"
+    },
+    {
+      "issuer": ["claude"],
+      "textured": "claude_textured.svg",
+      "tinted": "claude.svg"
+    },
+    {
+      "issuer": ["cloudflare"],
+      "textured": "cloudflare_textured.svg",
+      "tinted": "cloudflare.svg"
+    },
+    {
+      "issuer": ["codeberg", "codeberg.org"],
+      "textured": "codeberg_textured.svg",
+      "tinted": "codeberg.svg"
+    },
+    {
+      "issuer": ["credly"],
+      "textured": "credly_textured.svg",
+      "tinted": "credly.svg"
+    },
+    {
+      "issuer": ["cryptpad"],
+      "textured": "cryptpad_textured.svg",
+      "tinted": "cryptpad.svg"
+    },
+    {
+      "issuer": ["digitalocean"],
+      "textured": "digitalocean_textured.svg",
+      "tinted": "digitalocean.svg"
+    },
+    {
+      "issuer": ["discord"],
+      "textured": "discord_textured.svg",
+      "tinted": "discord.svg"
+    },
+    {
+      "issuer": ["electronic arts", "ea"],
+      "textured": "ea_textured.svg",
+      "tinted": "ea.svg"
+    },
+    {
+      "issuer": ["epic games"],
+      "textured": "epic_games_textured.svg",
+      "tinted": "epic_games.svg"
+    },
+    {
+      "issuer": ["facebook"],
+      "textured": "facebook_textured.svg",
+      "tinted": "facebook.svg"
+    },
+    {
+      "issuer": ["faceit"],
+      "textured": "faceit_textured.svg",
+      "tinted": "faceit.svg"
+    },
+    {
+      "issuer": ["github"],
+      "textured": "github_textured.svg",
+      "tinted": "github.svg"
+    },
+    {
+      "issuer": ["gitlab", "gitlab.com"],
+      "textured": "gitlab_textured.svg",
+      "tinted": "gitlab.svg"
+    },
+    {
+      "issuer": ["godaddy"],
+      "textured": "godaddy_textured.svg",
+      "tinted": "godaddy.svg"
+    },
+    {
+      "issuer": ["google"],
+      "textured": "google_textured.svg",
+      "tinted": "google.svg"
+    },
+    {
+      "issuer": ["hackerone"],
+      "textured": "hackerone_textured.svg",
+      "tinted": "hackerone.svg"
+    },
+    {
+      "issuer": ["hetzner"],
+      "textured": "hetzner_textured.svg",
+      "tinted": "hetzner.svg"
+    },
+    {
+      "issuer": ["hugging face", "huggingface"],
+      "textured": "huggingface_textured.svg",
+      "tinted": "huggingface.svg"
+    },
+    {
+      "issuer": ["instagram"],
+      "textured": "instagram_textured.svg",
+      "tinted": "instagram.svg"
+    },
+    {
+      "issuer": ["ionos"],
+      "textured": "ionos_textured.svg",
+      "tinted": "ionos.svg"
+    },
+    {
+      "issuer": ["ivpn"],
+      "textured": "ivpn_textured.svg",
+      "tinted": "ivpn.svg"
+    },
+    {
+      "issuer": ["jetbrains account"],
+      "textured": "jetbrains_textured.svg",
+      "tinted": "jetbrains.svg"
+    },
+    {
+      "issuer": ["lemmy"],
+      "textured": "lemmy_textured.svg",
+      "tinted": "lemmy.svg"
+    },
+    {
+      "issuer": ["linkedin"],
+      "textured": "linkedin_textured.svg",
+      "tinted": "linkedin.svg"
+    },
+    {
+      "issuer": ["loops"],
+      "textured": "loops_textured.svg",
+      "tinted": "loops.svg"
+    },
+    {
+      "issuer": ["mailbox.org"],
+      "textured": "mailbox.org_textured.svg",
+      "tinted": "mailbox.org.svg"
+    },
+    {
+      "issuer": ["mastodon", "mastodon.social"],
+      "textured": "mastodon_textured.svg",
+      "tinted": "mastodon.svg"
+    },
+    {
+      "issuer": ["meta"],
+      "textured": "meta_textured.svg",
+      "tinted": "meta.svg"
+    },
+    {
+      "issuer": ["mexc"],
+      "textured": "mexc_textured.svg",
+      "tinted": "mexc.svg"
+    },
+    {
+      "issuer": ["microsoft"],
+      "textured": "microsoft_textured.svg",
+      "tinted": "microsoft.svg"
+    },
+    {
+      "issuer": ["monero", "monero.com"],
+      "textured": "monero_textured.svg",
+      "tinted": "monero.svg"
+    },
+    {
+      "issuer": ["mozilla", "firefox"],
+      "textured": "mozilla_textured.svg",
+      "tinted": "mozilla.svg"
+    },
+    {
+      "issuer": ["namecheap"],
+      "textured": "namecheap_textured.svg",
+      "tinted": "namecheap.svg"
+    },
+    {
+      "issuer": ["nextcloud", "nextcloud.com"],
+      "textured": "nextcloud_textured.svg",
+      "tinted": "nextcloud.svg"
+    },
+    {
+      "issuer": ["nexus mods"],
+      "textured": "nexus_mods_textured.svg",
+      "tinted": "nexus_mods.svg"
+    },
+    {
+      "issuer": ["nitrado"],
+      "textured": "nitrado_textured.svg",
+      "tinned": "nitrado.svg"
+    },
+    {
+      "issuer": ["npm"],
+      "textured": "npm_textured.svg",
+      "tinted": "npm.svg"
+    },
+    {
+      "issuer": ["nvidia"],
+      "textured": "nvidia_textured.svg",
+      "tinted": "nvidia.svg"
+    },
+    {
+      "issuer": ["openai", "chatgpt"],
+      "textured": "openai_textured.svg",
+      "tinted": "openai.svg"
+    },
+    {
+      "issuer": ["patreon"],
+      "textured": "patreon_textured.svg",
+      "tinted": "patreon.svg"
+    },
+    {
+      "issuer": ["paypal"],
+      "textured": "paypal_textured.svg",
+      "tinted": "paypal.svg"
+    },
+    {
+      "issuer": ["porkbun"],
+      "textured": "porkbun_textured.svg",
+      "tinted": "porkbun.svg"
+    },
+    {
+      "issuer": ["posteo", "posteo.de"],
+      "textured": "posteo.de_textured.svg",
+      "tinted": "posteo.de.svg"
+    },
+    {
+      "issuer": ["privacy", "privacy.com"],
+      "textured": "privacy.com.svg",
+      "tinted": "privacy.com.svg"
+    },
+    {
+      "issuer": ["proton"],
+      "textured": "proton_textured.svg",
+      "tinted": "proton.svg"
+    },
+    {
+      "issuer": ["protonmail", "proton mail"],
+      "textured": "proton_mail_textured.svg",
+      "tinted": "proton_mail.svg"
+    },
+    {
+      "issuer": ["pypi"],
+      "textured": "pypi_textured.svg",
+      "tinted": "pypi.svg"
+    },
+    {
+      "issuer": ["reddit"],
+      "textured": "reddit_textured.svg",
+      "tinted": "reddit.svg"
+    },
+    {
+      "issuer": ["riot games"],
+      "textured": "riotgames_textured.svg",
+      "tinted": "riotgames.svg"
+    },
+    {
+      "issuer": ["rockstar games"],
+      "textured": "rockstar_games_textured.svg",
+      "tinted": "rockstar_games.svg"
+    },
+    {
+      "issuer": ["samsung", "samsung account"],
+      "textured": "samsung_textured.svg",
+      "tinted": "samsung.svg"
+    },
+    {
+      "issuer": ["shopify"],
+      "textured": "shopify_textured.svg",
+      "tinted": "shopify.svg"
+    },
+    {
+      "issuer": ["simplelogin"],
+      "textured": "simplelogin_textured.svg",
+      "tinted": "simplelogin.svg"
+    },
+    {
+      "issuer": ["slack"],
+      "textured": "slack_textured.svg",
+      "tinted": "slack.svg"
+    },
+    {
+      "issuer": ["stalwart mail"],
+      "textured": "stalwartmail_textured.svg",
+      "tinted": "stalwartmail.svg"
+    },
+    {
+      "issuer": ["steam"],
+      "textured": "steam_textured.svg",
+      "tinted": "steam.svg"
+    },
+    {
+      "issuer": ["teamspeak", "myteamspeak"],
+      "textured": "teamspeak_textured.svg",
+      "tinted": "teamspeak.svg"
+    },
+    {
+      "issuer": ["tiktok"],
+      "textured": "tiktok_textured.svg",
+      "tinted": "tiktok.svg"
+    },
+    {
+      "issuer": ["tuta", "tutanota", "tuta mail"],
+      "textured": "tuta_textured.svg",
+      "tinted": "tuta.svg"
+    },
+    {
+      "issuer": ["twitch"],
+      "textured": "twitch_textured.svg",
+      "tinted": "twitch.svg"
+    },
+    {
+      "issuer": ["uber"],
+      "textured": "uber_textured.svg",
+      "tinted": "uber.svg"
+    },
+    {
+      "issuer": ["ubisoft"],
+      "textured": "ubisoft_textured.svg",
+      "tinted": "ubisoft.svg"
+    },
+    {
+      "issuer": ["ubuntu one"],
+      "textured": "ubuntu_one_textured.svg",
+      "tinted": "ubuntu_one.svg"
+    },
+    {
+      "issuer": ["unity"],
+      "textured": "unity_textured.svg",
+      "tinted": "unity.svg"
+    },
+    {
+      "issuer": ["uphold"],
+      "textured": "uphold_textured.svg",
+      "tinted": "uphold.svg"
+    },
+    {
+      "issuer": ["vaultwarden"],
+      "textured": "vaultwarden_textured.svg",
+      "tinted": "vaultwarden.svg"
+    },
+    {
+      "issuer": ["vercel"],
+      "textured": "vercel_textured.svg",
+      "tinted": "vercel.svg"
+    },
+    {
+      "issuer": ["weblate", "codeberg translate", "hosted weblate"],
+      "textured": "weblate_textured.svg",
+      "tinted": "weblate.svg"
+    },
+    {
+      "issuer": ["wise"],
+      "textured": "wise_textured.svg",
+      "tinted": "wise.svg"
+    },
+    {
+      "issuer": ["wordpress"],
+      "textured": "wordpress_textured.svg",
+      "tinted": "wordpress.svg"
+    },
+    {
+      "issuer": ["x", "twitter"],
+      "textured": "x_textured.svg",
+      "tinted": "x.svg"
+    },
+    {
+      "issuer": ["zendesk"],
+      "textured": "zendesk_textured.svg",
+      "tinted": "zendesk.svg"
+    },
+    {
+      "issuer": ["zerossl"],
+      "textured": "zerossl_textured.svg",
+      "tinted": "zerossl.svg"
+    },
+    {
+      "issuer": ["zoom"],
+      "textured": "zoom_textured.svg",
+      "tinted": "zoom.svg"
+    },
+    {
+      "issuer": ["roblox"],
+      "textured": "roblox_textured.svg",
+      "tinted": "roblox.svg"
+     }, 
+     {
+      "issuer": ["ente"],
+      "textured": "ente_textured.svg",
+      "tinted": "ente.svg"
+    }
+  ]
+}
